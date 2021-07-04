@@ -1,6 +1,6 @@
 body{
-  background-color: #FF7F50;
-    color: #FFC0CB;
+  background-color: #FF6347;
+    color: #dddddd;
   font-family: Times New Roman, serif;
   margin: 10% 20%
 }
@@ -27,5 +27,5 @@ img{
   text-align: center;
   border-top: 1px solid #dddd;
   border-bottom: 1px solid #dddd;
-  color: #FF1493 
+  color: #dddddd 
 }
