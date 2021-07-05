@@ -6,6 +6,10 @@ body{
   border: 10px solid rgba(0,0,0, .3)
 }
 
+html{
+  background-color: white; 
+}
+
 .exp-header{
   text-align: center;
   text-transform: uppercase;
