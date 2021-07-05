@@ -1,8 +1,9 @@
 body{
   background-color: #FF6347;
     color: #dddddd;
-  font-family: Times New Roman, serif;
-  margin: 10% 20%
+  font-family: Lucida Grande, sans-serif;
+  margin: 10% 20%;
+  border: 10px solid rgba(0,0,0, .3)
 }
 
 .exp-header{
@@ -28,6 +29,10 @@ img{
   border-top: 1px solid #dddd;
   border-bottom: 1px solid #dddd;
   color: #dddddd 
+}
+
+.normal{
+  margin: 5%
 }
 
 .extra {
